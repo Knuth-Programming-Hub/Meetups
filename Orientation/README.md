@@ -5,11 +5,13 @@
 [Google Drive](https://drive.google.com/file/d/1eUbAf5zfCYI6ZiozErut62W6itOywQCe/view?usp=sharing)
 
 ### Online Judges:
-- [AtCoder](https://atcoder.jp) <br>
-- [CodeChef](https://www.codechef.com) <br>
-- [CodeForces](https://www.codeforces.com) <br>
-- [HackerEarth](https://www.hackerearth.com) <br>
-- [HackerRank](https://www.hackerrank.com) <br>
+- [AtCoder](https://atcoder.jp) 
+- [CodeChef](https://www.codechef.com) 
+- [CodeForces](https://www.codeforces.com) 
+- [HackerEarth](https://www.hackerearth.com) 
+- [HackerRank](https://www.hackerrank.com) 
+- [SPOJ](https://www.spoj.com)
 
-### Useful Resources:
-- [StopStalk](https://www.stopstalk.com)
+### Some Resources:
+- [CF - "An Awesome List for CP"](https://codeforces.com/blog/entry/23054)
+- [HE - Complete Reference to CP](https://www.hackerearth.com/getstarted-competitive-programming)
