@@ -19,3 +19,5 @@ The Orientation of The Knuth Programming Hub for session 2020-21 was held on 20t
 ### Some Resources:
 - [CF - "An Awesome List for CP"](https://codeforces.com/blog/entry/23054)
 - [HE - Complete Reference to CP](https://www.hackerearth.com/getstarted-competitive-programming)
+
+- https://cses.fi/book/book.pdf  ( A book for DSA)
