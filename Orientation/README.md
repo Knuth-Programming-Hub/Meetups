@@ -38,3 +38,7 @@ The Orientation of The Knuth Programming Hub for session 2020-21 was held on 20t
 -   [CF - "An Awesome List for CP"](https://codeforces.com/blog/entry/23054)
 -   [HE - Complete Reference to CP](https://www.hackerearth.com/getstarted-competitive-programming)
 -   [CP Handbook - Antti Laaksonen](https://cses.fi/book/book.pdf)
+
+### FAQs
+-   [Which programming langauge should i prefer ?] -- (We recommend C++ for now)
+-   [How to Start Cp, if iam a beginner in programming or have no programming background ?] -- (go to HackerRank and start practicing a language and also Problem          Solving)
