@@ -41,4 +41,4 @@ The Orientation of The Knuth Programming Hub for session 2020-21 was held on 20t
 
 ### FAQs
 -   [Which programming langauge should i prefer ?] -- (We recommend C++ for now)
--   [How to Start Cp, if iam a beginner in programming or have no programming background ?] -- (go to HackerRank and start practicing a language and also Problem          Solving)
+-   [How to Start Cp, if iam a beginner in programming or have no programming background ?] -- (go to [HackerRank](https://www.hackerrank.com) and start practicing a language and also Problem          Solving)
