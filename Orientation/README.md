@@ -1,10 +1,10 @@
 The Orientation of The Knuth Programming Hub for session 2020-21 was held on 20th September 2020.
 
-### Slides:
+### Slides
 
 [Google Sheets](https://docs.google.com/presentation/d/1JetZR_wNNlmN0IInWC2nLDSfrk20ZrEyQRE3qH5e8gw/edit?usp=sharing)
 
-### Agenda:
+### Agenda
 
 -   Introduction: Exploring stuff
 -   What is programming and why to learn programming?
@@ -23,7 +23,7 @@ The Orientation of The Knuth Programming Hub for session 2020-21 was held on 20t
 -   About Alumni
 -   Doubt clearing session in the end
 
-### Online Judges:
+### Online Judges
 
 -   [AtCoder](https://atcoder.jp)
 -   [CodeChef](https://www.codechef.com)
@@ -33,12 +33,13 @@ The Orientation of The Knuth Programming Hub for session 2020-21 was held on 20t
 -   [SPOJ](https://www.spoj.com)
 -   [Topcoder](https://www.topcoder.com)
 
-### Some Resources:
+### Some Resources
 
--   [CF - "An Awesome List for CP"](https://codeforces.com/blog/entry/23054)
--   [HE - Complete Reference to CP](https://www.hackerearth.com/getstarted-competitive-programming)
+-   [CodeForces - "An Awesome List for CP"](https://codeforces.com/blog/entry/23054)
+-   [HackerEarth - Complete Reference to CP](https://www.hackerearth.com/getstarted-competitive-programming)
 -   [CP Handbook - Antti Laaksonen](https://cses.fi/book/book.pdf)
 
 ### FAQs
--   [Which programming langauge should i prefer ?] -- (We recommend C++ for now)
--   [How to Start Cp, if iam a beginner in programming or have no programming background ?] -- (go to [HackerRank](https://www.hackerrank.com) and start practicing a language and iff you're comfortable with atleast one language you can start Problem Solving)
+
+-   **_Which programming langauge should I prefer?_** -- We recommend C++ for now.
+-   **_How to Start CP if I am a beginner in programming or have no programming background?_** -- Go to [HackerRank](https://www.hackerrank.com) and start practicing a language and once you are comfortable with atleast one language you can start with "Problem Solving".
